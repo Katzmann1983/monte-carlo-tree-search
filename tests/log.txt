@@ -1,0 +1,6 @@
+mcts: [[ 0 -1  0]
+ [ 0  1  0]
+ [ 0  1 -1]]	Next to move 1
+	 Number of visits 0.0	 untried_actions [x:0 y:0 v:1, x:0 y:2 v:1, x:1 y:0 v:1, x:1 y:2 v:1, x:2 y:0 v:1]	 has_child_with_untried_actions True	 Results 0
+
+Certain win
